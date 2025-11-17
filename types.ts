@@ -1,0 +1,1 @@
+export type DesignTemplate = 'facebook' | 'youtube' | 'instagram' | 'quote' | 'speech' | 'panel' | 'hadith' | 'news';

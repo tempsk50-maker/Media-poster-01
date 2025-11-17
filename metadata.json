@@ -1,0 +1,5 @@
+{
+  "name": "Social Media Post Designer",
+  "description": "An application to create beautiful social media posts for Facebook and YouTube using a candidate's photo, a logo, and key quotes. It leverages Gemini to extract impactful text and automatically adds the current date.",
+  "requestFramePermissions": []
+}
